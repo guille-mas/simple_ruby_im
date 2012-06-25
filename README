@@ -1,0 +1,5 @@
+requirements:
+  ruby, rubygems, ruby bundler and nokogiri
+instructions:
+  run "bundle install"
+  execute "./mensajeria port_number"
